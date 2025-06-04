@@ -17,3 +17,5 @@ Styling: Pure CSS
 
 Host: local server
 
+Enjoy the Superheroes Website!
+Thanks for checking out this project! 
